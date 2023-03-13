@@ -9,7 +9,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center >
         Welcome To <br />
-        My Personal Portfolio
+        My Portfolio
       </SectionTitle>
       <SectionText>
       I am an expert in web development and blockchain development and have a thorough understanding of everything relating to this platform. I am also skilled in coding languages, programming, and the following additional talents. 

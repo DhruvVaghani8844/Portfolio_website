@@ -12,7 +12,7 @@ const Technologies = () =>  (
       I've worked with a range a technologies in the Blockchain development world.
         Front-end to Solidity
     </SectionText>
-    <List>
+    {/* <List>
       <ListItem>
         <DiReact size="3rem"/>
         <ListContainer>
@@ -43,7 +43,7 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-    </List>
+    </List> */}
   </Section>
 );
 
